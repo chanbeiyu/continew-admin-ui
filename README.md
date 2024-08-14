@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/License-Apache--2.0-blue.svg" alt="License" />
 </a>
 <a href="https://github.com/Charles7c/continew-admin-ui" target="_blank">
-<img src="https://img.shields.io/badge/RELEASE-v3.1.0-%23ff3f59.svg" alt="Release" />
+<img src="https://img.shields.io/badge/RELEASE-v3.2.0-%23ff3f59.svg" alt="Release" />
 </a>
 <a href="https://github.com/Charles7c/continew-admin" target="_blank">
 <img src="https://img.shields.io/github/stars/Charles7c/continew-admin?style=social" alt="GitHub stars" />
@@ -43,11 +43,11 @@ ContiNew Admin（Continue New Admin）持续迭代优化的前后端分离中后
 
 ## 项目源码
 
-|          | Gitee（码云）                                                                            | GitHub                                                                          |
-|----------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-| 前端       | [continew/continew-admin-ui](https://gitee.com/continew/continew-admin-ui)           | [charles7c/continew-admin-ui](https://github.com/Charles7c/continew-admin-ui)           |
-| 后端       | [continew/continew-admin](https://gitee.com/continew/continew-admin)                 | [charles7c/continew-admin](https://github.com/Charles7c/continew-admin)                 |
-| 前端（v2.5） | [continew/continew-admin-ui-arco](https://gitee.com/continew/continew-admin-ui-arco) | [charles7c/continew-admin-ui-arco](https://github.com/Charles7c/continew-admin-ui-arco) |
+|         | 前端                                                         | 后端                                                         |
+| :------ | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| Gitee   | [continew/continew-admin-ui](https://gitee.com/continew/continew-admin-ui) | [continew/continew-admin](https://gitee.com/continew/continew-admin) |
+| GitCode | [continew/continew-admin-ui](https://gitcode.com/continew/continew-admin-ui) | [continew/continew-admin](https://gitcode.com/continew/continew-admin) |
+| GitHub  | [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) | [continew-org/continew-admin](https://github.com/continew-org/continew-admin) |
 
 ## 项目起源
 

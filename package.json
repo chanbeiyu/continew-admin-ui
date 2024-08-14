@@ -1,7 +1,7 @@
 {
   "name": "continew-admin-ui",
   "type": "module",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "private": "true",
   "scripts": {
     "dev": "vite --host",
@@ -24,6 +24,7 @@
     "@vueuse/core": "^10.5.0",
     "@wangeditor/editor": "^5.1.1",
     "@wangeditor/editor-for-vue": "^5.1.12",
+    "aieditor": "^1.0.13",
     "animate.css": "^4.1.1",
     "axios": "^0.27.2",
     "codemirror": "^6.0.1",
@@ -50,7 +51,7 @@
     "vue-draggable-plus": "^0.3.5",
     "vue-echarts": "^6.5.5",
     "vue-json-pretty": "^2.4.0",
-    "vue-router": "^4.2.2",
+    "vue-router": "^4.3.3",
     "xe-utils": "^3.5.7",
     "xgplayer": "^2.31.6"
   },
@@ -82,7 +83,7 @@
     "vue-tsc": "^2.0.6"
   },
   "simple-git-hooks": {
-    "pre-commit": "npm lint-staged"
+    "pre-commit": "pnpm lint-staged"
   },
   "lint-staged": {
     "*": "eslint --fix"
